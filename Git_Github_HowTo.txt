@@ -1,0 +1,13 @@
+######### How to --- Git -Github ########
+
+1)Download & install Git https://git-scm.com
+2)Signup https://github.com
+3)Signin https://github.com
+4)Create Repo
+5)Open Terminal/CMD
+6) ~ git clone repository-URL(https://github.com/anirudhagaikwad/Django-Internship_3March2021.git)
+7) ~ copy your projectfiles in cloned repo
+8) switch location in cloned repo
+9) ~ git add .
+10) ~ git commit -m "commit text"
+11) ~ git push repository-URL(https://github.com/anirudhagaikwad/Django-Internship_3March2021.git)

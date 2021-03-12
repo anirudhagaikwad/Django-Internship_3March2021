@@ -1,0 +1,23 @@
+/* ITS comment in CSS  */
+
+/* Element Selector */
+
+p{border-style: double;border-color: green;}
+
+/* ID Selector */
+
+
+#colo{
+    color: indigo;
+}
+
+
+
+/* Class Selector */
+
+
+.itsclass{
+    border-style: dotted; border-color: black;text-decoration-style: dashed;
+}
+
+
