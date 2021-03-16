@@ -1,0 +1,2 @@
+1) Create single page static website for display your profile,using Bootstrap4.6 
+2) Host developed website on Github & Share link 
