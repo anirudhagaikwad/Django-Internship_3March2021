@@ -1,0 +1,12 @@
+1)print todays date in DD-MM-YYYY format
+   extract year from todays date and print on console.
+
+2)take any input from user and convert it in tuple 
+  display converted output
+
+3)Perform CURD operation using python & Mysql 
+  1)Insert student info in table - i.e. name,branch,standard,roll no
+  2)Update student Info : i.e. student branch
+  3)Delete student row where branch is Mechanical
+  4)Show student info on console
+
